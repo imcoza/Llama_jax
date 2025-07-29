@@ -1,0 +1,10 @@
+# JAX and related dependencies
+jax[cuda12_pip]
+jaxlib[cuda12_pip]
+flax
+optax
+transformers
+datasets
+numpy
+matplotlib
+tqdm 
