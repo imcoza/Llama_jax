@@ -85,9 +85,6 @@ llama-jax/
 ├── tests/                    # Test files
 │   ├── test_llama_jax.py     # Unit tests
 │   └── debug_*.py            # Debug scripts
-└── docs/                     # Documentation
-    ├── code_explanation.md   # Detailed code explanation
-    └── analysis_report.md    # Implementation analysis
 ```
 
 ## 🧠 Model Architecture
